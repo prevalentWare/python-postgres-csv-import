@@ -26,7 +26,7 @@ Replace the placeholders with your actual PostgreSQL connection details.
 3. Install the required Python packages:
 
 ```
-pip install psycopg2 python-dotenv
+pip install -r requirements.txt
 ```
 
 ## Usage
